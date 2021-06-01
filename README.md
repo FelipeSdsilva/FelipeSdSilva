@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>My name Is Felipe.<\h1>
+<h1>My name Is Felipe.</h1>
 I live in 🇧🇷 and i love 💻 !!
 I need learn more 
