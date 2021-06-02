@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 <h1>Connect with me :</h1>
 <figure>
   <a href="https://www.linkedin.com/in/felipe-sousa-340748118/"></a>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg" alt="linkdin-Felipe">
+  <img width= 40 height=49 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg" alt="linkedin-Felipe" href="https://www.linkedin.com/in/felipe-sousa-340748118/">
   
 </figure>
