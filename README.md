@@ -14,7 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>My name Is Felipe.</h1>
-<p>I live in 🇧🇷 and i love 💻 !!</p>
+<h1>I'm Felipe Sousa.</h1>
+<p>I live in 🇧🇷 !!</p>
 <p>I have 27 year old, at in the moment  work in <a href="https://www.maurocenter.com.br/"> Mauro Center</a>, is a commerce of contruction locale in zone east of <strong>São Paulo</strong></p>
-I graduated in Developer Of System in college <a href="https://www.uninove.br/">Universidade Nove De Julho</a>
+<p>I graduated in Developer Of System in college <a href="https://www.uninove.br/">Universidade Nove De Julho(UNINOVE)<img src=""></a></p>
+
+<h1>Connect with me :</h1>
+<figure>
+  <a href="https://www.linkedin.com/in/felipe-sousa-340748118/"></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg" alt="linkdin-Felipe">
+  
+</figure>
