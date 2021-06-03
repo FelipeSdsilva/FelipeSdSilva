@@ -34,7 +34,5 @@ Here are some ideas to get you started:
 <h1>My Skills :</h1>
 <figure>
    <img width= 40 height=49 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
-   <img width= 40 height=49 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-   <img width= 40 height=49 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
-   <img width= 40 height=49 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
+  
 </figure>
