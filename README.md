@@ -33,6 +33,6 @@ Here are some ideas to get you started:
 </figure>
 <figure>
    <a href="https://www.reddit.com/user/Feehlipe">
-    <img width= 40 height=49 src="https://www.flaticon.com/br/icone-gratis/personagem-do-logotipo-social-do-reddit_49398">
+    <img width= 40 height=49 src="https://www.flaticon.com/br/icone-premium/reddit_3670304">
    </a>
 </figure>
