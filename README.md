@@ -31,4 +31,16 @@ Here are some ideas to get you started:
     <img width= 40 height=49 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-plain.svg">
    </a>
 </figure>
-
+<h1>My Skills :</h1>
+<figure>
+   <img width= 40 height=49 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
+</figure>
+<figure>
+   <img width= 40 height=49 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+</figure>
+<figure>
+   <img width= 40 height=49 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
+</figure>
+<figure>
+   <img width= 40 height=49 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
+</figure>
