@@ -31,8 +31,4 @@ Here are some ideas to get you started:
     <img width= 40 height=49 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-plain.svg">
    </a>
 </figure>
-<figure>
-   <a href="https://www.reddit.com/user/Feehlipe">
-    <img width= 40 height=49 src="https://www.flaticon.com/br/icone-premium/reddit_3670304">
-   </a>
-</figure>
+
