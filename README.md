@@ -1,4 +1,4 @@
-### Hi there 👋
+### Fala Galera 👋
 
 <!--
 **FelipeSdsilva/FelipeSdSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <body>
- <h1>I'm Felipe Sousa.</h1>
- <p>I live in Brazil, São Paulo!!</p>
- <p>I have 28 year old, at in the moment  work in <a href="https://www.maurocenter.com.br/"> Mauro Center</a>, is a commerce of contruction locale in zone east of <strong>São Paulo</strong></p>
- <p>Olá meu nome é Felipe Sousa da Silva tenho 28 anos estou em busca da minha colocação no mercado da programação tenho um entusiasmo para programar já fiz um curso da faculdade de Análise e Desenvolvimento de sistemas (ADS) onde aprendi coisas básicas pela UNINOVE.
+ <h1>Quem sou eu:</h1>
+ <p>Olá meu nome é <strong>Felipe Sousa da Silva</strong> tenho 28 anos estou em busca da minha colocação no mercado da programação tenho um entusiasmo para programar já fiz um curso da faculdade de Análise e Desenvolvimento de sistemas (ADS) onde aprendi coisas básicas pela UNINOVE.
 E hoje que ampliar meus conhecimentos e deixar de ser um cara básico quero mudar minha vida e ajudar a mudar outras pessoas com meu conhecimento e dedicação, já fui aluno do Bootcamp da DevSuperior, com o intuito de aprender mais sobre o framework do Java o Spring que é uma ótima ferramenta de desenvolvimento.
 Apesar de muitas dificuldades não vou desistir do meu sonho em ser um programador fullstack onde eu possa não só desenvolver minhas próprias aplicações como poder ajudar outros amigos que também tem dúvidas e dificuldades assim como todos tem.
 Sei que o caminho é estreito está sendo mesmo sem experiência comprovada na carteira esse é o meu sonho e não é por dinheiro e sim por amor a tecnologia e o conhecimento.
