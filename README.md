@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 E hoje que ampliar meus conhecimentos e deixar de ser um cara básico quero mudar minha vida e ajudar a mudar outras pessoas com meu conhecimento e dedicação, já fui aluno do Bootcamp da DevSuperior, com o intuito de aprender mais sobre o framework do Java o Spring que é uma ótima ferramenta de desenvolvimento.
 Apesar de muitas dificuldades não vou desistir do meu sonho em ser um programador fullstack onde eu possa não só desenvolver minhas próprias aplicações como poder ajudar outros amigos que também tem dúvidas e dificuldades assim como todos tem.
 Sei que o caminho é estreito está sendo mesmo sem experiência comprovada na carteira esse é o meu sonho e não é por dinheiro e sim por amor a tecnologia e o conhecimento.
-Esse sou eu uma pessoa que tem medos e sonhos, apesar de estar em uma fase onde minha cabeça não coopere muito com pensamentos positivos estou aqui disposto a aprender mais e mas.</a></p>
+Esse sou eu uma pessoa que tem medos e sonhos.</a></p>
  <h2>Minhas redes sociais :</h2>
   <figure>
     <a href="https://www.linkedin.com/in/felipe-sousa-340748118/">
