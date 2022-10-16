@@ -36,19 +36,4 @@ Esse sou eu uma pessoa que tem medos e sonhos.</a></p>
  <figure>
     <img width= 40 height=50 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"> 
  </figure>
- <figure>
-    <img width=40 heigth=50 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
- </figure>
-  <figure>
-   <img width=40 heigth=50 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
- </figure>
-  <figure>
-   <img width=40 heigth=50 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
- </figure>
-  <figure>
-   <img width=40 heigth=50 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
- </figure>
-   <figure>
-   <img width=40 heigth=50 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
- </figure>
 </body>
