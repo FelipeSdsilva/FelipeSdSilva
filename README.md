@@ -42,7 +42,7 @@ Esse sou eu uma pessoa que tem medos e sonhos.</a></p>
   <figure>
    <img width=40 heigth=50 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
  </figure>
-   <figure>
+  <figure>
    <img width=40 heigth=50 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
  </figure>
   <figure>
