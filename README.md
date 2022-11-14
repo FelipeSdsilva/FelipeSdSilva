@@ -6,8 +6,8 @@
 ### Profile
 
 <div align="Regth">
-  <a href="https://github.com/FelipeSdsilva">
-   <a href="https://github.com/Gurupreet">
+  <a href="https://github.com/FelipeSdSilva">
+   <a href="https://github.com/FelipeSdSilva">
   <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSdSilva&theme=dracula&hide_langs_below=1" />
 </a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeSdsilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
