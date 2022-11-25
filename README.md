@@ -2,15 +2,17 @@
  😊 I have been a technology student since 2016 and graduated from UNINOVE college for the systems analysis and development course completed in 2020 and I am currently in the bootcamp at DevSuperior where I intend to complete my dream of becoming a fullstack JAVA developer. 
  
  🌱 I’m currently learning a framework Spring of JAVA and REACTJS.
+ 
+ <div align="center">&nbsp;<img align="center" height="250px" src="https://streak-stats.demolab.com/?user=FelipeSdsilva&theme=dracula" alt="Felipe Sousa" /></div>
 
 ### Profile
 
 <div align="Regth">
   <a href="https://github.com/FelipeSdSilva">
    <a href="https://github.com/FelipeSdSilva">
-  <img align="left" height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSdSilva&theme=dracula&hide_langs_below=1" />
+  <img align="left" height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSdSilva&theme=dracula&hide_langs_below=1" />
 </a>
-    <img align="center" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+   
   <img height="240em" src="https://github-readme-stats.vercel.app/api?username=FelipeSdsilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   
 </div>
@@ -18,13 +20,15 @@
 
 
  ### DevOps
-
+ 
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
  ### My Skills
+ 
+ <img align="right" width="400" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
  
  <img width=30 height=30 float:left  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width=30 height=30 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width=30 height=30  /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width= 30 height=30 />
