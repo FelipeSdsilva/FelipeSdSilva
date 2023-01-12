@@ -5,19 +5,6 @@
  
  <div align="center">&nbsp;<img align="center" height="250px" src="https://streak-stats.demolab.com/?user=FelipeSdsilva&theme=dracula" alt="Felipe Sousa" /></div>
 
-### Profile
-
-<div align="Regth">
-  <a href="https://github.com/FelipeSdSilva">
-   <a href="https://github.com/FelipeSdSilva">
-  <img align="left" height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSdSilva&theme=dracula&hide_langs_below=1" />
-</a>
-   
-  <img height="240em" src="https://github-readme-stats.vercel.app/api?username=FelipeSdsilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  
-</div>
- 
-
 
  ### DevOps
  
