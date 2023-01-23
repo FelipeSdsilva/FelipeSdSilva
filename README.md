@@ -34,5 +34,6 @@
 <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send/?phone=5511954705118&text=Fala+Felipel%2C+tudo+bom%3F&type=phone_number&app_absent=0"/></a>
 
 
+ <div align="center">&nbsp;<img align="center" height="250px" src="https://streak-stats.demolab.com/?user=FelipeSdsilva&theme=dracula" alt="Felipe Sousa" /></div>
 
 
