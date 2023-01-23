@@ -3,8 +3,6 @@
  
  🌱 I’m currently learning a framework Spring of JAVA and REACTJS.
  
- <div align="center">&nbsp;<img align="center" height="250px" src="https://streak-stats.demolab.com/?user=FelipeSdsilva&theme=dracula" alt="Felipe Sousa" /></div>
-
 
  ### DevOps
  
