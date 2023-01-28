@@ -1,7 +1,7 @@
 ### HI my friends Devs👋,My name Felipe Sousa and develop for backend Java.
  😊 I have been a technology student since 2016 and graduated from UNINOVE college for the systems analysis and development course completed in 2020 and I am currently in the bootcamp at DevSuperior where I intend to complete my dream of becoming a fullstack JAVA developer. 
  
- 🌱 I’m currently learning a framework Spring of Java and ReactJS.
+ 🌱 I’m currently learning and work a framework Spring of Java and ReactJS.
 
  ### DevOps
  
