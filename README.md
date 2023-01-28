@@ -1,14 +1,12 @@
-### HI my friends Devs👋, name Felipe Sousa and develop for backend JAVA.
+### HI my friends Devs👋,My name Felipe Sousa and develop for backend JAVA.
  😊 I have been a technology student since 2016 and graduated from UNINOVE college for the systems analysis and development course completed in 2020 and I am currently in the bootcamp at DevSuperior where I intend to complete my dream of becoming a fullstack JAVA developer. 
  
- 🌱 I’m currently learning a framework Spring of JAVA and REACTJS.
- 
+ 🌱 I’m currently learning a framework Spring of Java and ReactJS.
 
  ### DevOps
  
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
  ### My Skills
@@ -36,4 +34,30 @@
 
  <div align="center">&nbsp;<img align="center" height="250px" src="https://streak-stats.demolab.com/?user=FelipeSdsilva&theme=dracula" alt="Felipe Sousa" /></div>
 
+ ______________________________________________________________________________________________________________________________________________________________________
+ # Reflection
+ 
+Muitos só ligam para estética não só do "frontend" ou "backend" mas poucos entregam qualidade de um código bem escrito e lido.
+("Também me coloquei nessa")
 
+"Infelizmente, não costumamos enxergar essas questões como peças fundamentais da arte de programar. Abandonamos nosso código antecipadamente, não porque ele já esteja pronto, mas porque nosso sistema de valores se foca mais na aparência externa do que no conteúdo que entregamos".
+
+"Posso lhe ensinar a mecânica para se andar de bicicleta. Na verdade, a matemática clássica é relativamente direta. Gravidade, atrito, momento angular, centro de massa, e assim por diante, podem ser demonstrados com menos de uma página cheia de equações. Dada essas fórmulas, eu poderia provar para você que é prático andar de bicicleta e lhe dar todo o conhecimento necessário para que você consiga. E mesmo assim você cairá na primeira vez que tentar."
+
+"Programar não é diferente. Poderíamos pôr no papel todos os princípios necessários para um código limpo e, então, confiar que você fará as tarefas (isto é, deixar você cair quando subir na bicicleta), mas que tipo de professores e de estudantes isso faria de nós ?"
+
+"Podem dizer que um livro sobre código é, de certa forma, algo ultrapassado, que a programação deixou de ser uma preocupação e que devemos nos preocupar com modelos e requisitos. Outros até mesmo alegam que o fim do código, ou seja, da programação, está próximo: que logo todo código será gerado, e não mais escrito. E que não precisarão mais de programadores, pois as pessoas criarão programas a partir de especificações."
+
+"Bobagens! Nunca nos livraremos dos códigos, pois eles representam os detalhes dos requisitos. Em certo nível, não há como ignorar ou abstrair esses detalhes, eles precisam ser especificados. E especificar requisitos detalhadamente de modo que uma máquina possa executá-los é programar - e tal especificação é o código".
+
+- Robert C. Martin 
+_______________________________________________________________________________________________________________________________________________________________________
+ 
+# Mentality at 5S
+
+- [X] Seiri
+- [x] Seiton
+- [x] Seiso
+- [x] Seiketsu
+- [x] Shutsuke
+_______________________________________________________________________________________________________________________________________________________________________
