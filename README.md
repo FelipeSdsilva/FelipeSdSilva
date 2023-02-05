@@ -27,7 +27,6 @@
  
 [![Linkedin: Felipe Sousa](https://img.shields.io/badge/-FelipeSousa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipesdsilva/)](https://www.linkedin.com/in/felipesdsilva/)
 [![Gmail Badge](https://img.shields.io/badge/-felipe.fps09@hotmail.com-006bed?style=flat-square&logo=Outlook&logoColor=white&link=mailto:felipe.fps09@hotmail.com)](mailto:felipe.fps09@hotmail.com)
-[![GitHub Felipe Sousa]( https://img.shields.io/github/followers/FelipeSdSilva?label=follow&style=social)](https://github.com/FelipeSdsilva)
 <a href="https://api.whatsapp.com/send/?phone=5511954705118&text=Fala+Felipel%2C+tudo+bom%3F&type=phone_number&app_absent=0" alt="WhatsApp">
 <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send/?phone=5511954705118&text=Fala+Felipel%2C+tudo+bom%3F&type=phone_number&app_absent=0"/></a>
 
