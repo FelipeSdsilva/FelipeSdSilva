@@ -7,7 +7,7 @@
  
  1) <a href="https://github.com/FelipeSdsilva/dscatalog">DsCatalog</a>
  2) <a href="https://github.com/FelipeSdsilva/dsmovie">DsMovie</a>
- 3) <a href="https://github.com/FelipeSdsilva/ChessMatchInJava"</a>
+ 3) <a href="https://github.com/FelipeSdsilva/ChessMatchInJava">Chess Match</a>
  4) Load ....
 
  ### DevOps
