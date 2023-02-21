@@ -2,6 +2,13 @@
  😊 I have been a technology student since 2016 and graduated from UNINOVE college for the systems analysis and development course completed in 2020 and I am currently in the bootcamp at DevSuperior where I intend to complete my dream of becoming a fullstack JAVA developer. 
  
  🌱 I’m currently learning and work a framework Spring of Java and ReactJS.
+ 
+ ### My top projects who i love.
+ 
+ 1) <a href="https://github.com/FelipeSdsilva/dscatalog">DsCatalog</a>
+ 2) <a href="https://github.com/FelipeSdsilva/dsmovie">DsMovie</a>
+ 3) <a href="https://github.com/FelipeSdsilva/ChessMatchInJava"</a>
+ 4) Load ....
 
  ### DevOps
  
