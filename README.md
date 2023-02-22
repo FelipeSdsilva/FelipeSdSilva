@@ -41,8 +41,8 @@ ________________________________________________________________________________
 
 
 <div align="center">
-<img align="center" height="180px" src="https://streak-stats.demolab.com/?user=FelipeSdsilva&theme=dracula" alt="Felipe Sousa" />
-<img float="right" align="right" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSdSilva&theme=dracula&hide_langs_below=1" />
+<img height="180px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FelipeSdsilva&show_icons=true&theme=dracula" />
+<img height="180px" src="https://streak-stats.demolab.com/?user=FelipeSdsilva&theme=dracula" alt="Felipe Sousa" />
 </div>
 
 
