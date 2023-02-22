@@ -39,7 +39,12 @@ ________________________________________________________________________________
 <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send/?phone=5511954705118&text=Fala+Felipel%2C+tudo+bom%3F&type=phone_number&app_absent=0"/></a>
 ______________________________________________________________________________________________________________________________________________________________________
 
- <div align="center">&nbsp;<img align="center" height="250px" src="https://streak-stats.demolab.com/?user=FelipeSdsilva&theme=dracula" alt="Felipe Sousa" /></div>
+
+<div align="center">
+<img align="center" height="180px" src="https://streak-stats.demolab.com/?user=FelipeSdsilva&theme=dracula" alt="Felipe Sousa" />
+<img float="right" align="right" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSdSilva&theme=dracula&hide_langs_below=1" />
+</div>
+
 
  ______________________________________________________________________________________________________________________________________________________________________
  # Reflection
