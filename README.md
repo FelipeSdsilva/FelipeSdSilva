@@ -11,7 +11,7 @@ ________________________________________________________________________________
  1) <a href="https://github.com/FelipeSdsilva/dscatalog">DsCatalog</a> (❁´◡`❁)
  2) <a href="https://github.com/FelipeSdsilva/dsmovie">DsMovie</a> (●'◡'●)
  3) <a href="https://github.com/FelipeSdsilva/ChessMatchInJava">Chess Match</a> ╰(*°▽°*)╯
- 4) <img heght="5" width="50" src="https://media.tenor.com/l6xMWS1HEtIAAAAj/loading-load.gif"> 
+ 4) <a href="https://github.com/FelipeSdsilva/projeto-sds3">Dsvendas</a> ^_^
  
 ______________________________________________________________________________________________________________________________________________________________________
  ### DevOps
