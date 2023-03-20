@@ -59,6 +59,7 @@ ________________________________________________________________________________
  <img src=https://github.com/FelipeSdsilva/images-for-readme/blob/main/dd1d2332-4a99-4fd5-a423-a797d69f7aba-removebg-preview.ico width=40/>
  <img src=https://hermes.digitalinnovation.one/courses/badge/f432817e-666b-4675-9033-765347ed80c5.png width=40 height=40 />
  <img src="https://hermes.digitalinnovation.one/courses/badge/5ad61536-60c1-4f1f-92c5-21b734e0de4f.png" width=40 height=40 />
+ <img src="https://hermes.digitalinnovation.one/courses/badge/a4b60bd4-e924-4b09-b572-d7db8a0c3d70.png" width=40 height=40 />
 </div>
 
 _______________________________________________________________________________________________________________________________________________________________________
