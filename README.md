@@ -16,8 +16,7 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________________________________________________________________________
 
  ### My Skills
- 
-<img align="right" width="400" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
  
 <img width=30 height=30 float:left  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width=30 height=30 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width=30 height=30  /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width= 30 height=30 />
