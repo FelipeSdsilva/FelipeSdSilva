@@ -4,7 +4,7 @@
  🌱 I’m currently learning and work a framework Spring of Java and ReactJS.
 ______________________________________________________________________________________________________________________________________________________________________
  
- ### My top projects who  i ❤️.
+ ### My projects.
  
  <img align="right" float="right" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSdSilva&theme=dracula&hide_langs_below=1" />
 
