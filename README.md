@@ -8,10 +8,10 @@ ________________________________________________________________________________
  
  <img align="right" float="right" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSdSilva&theme=dracula&hide_langs_below=1" />
 
- 1) <a href="https://github.com/FelipeSdsilva/dscatalog">DsCatalog</a> (❁´◡`❁)
- 2) <a href="https://github.com/FelipeSdsilva/dsmovie">DsMovie</a> (●'◡'●)
- 3) <a href="https://github.com/FelipeSdsilva/ChessMatchInJava">Chess Match</a> ╰(*°▽°*)╯
- 4) <a href="https://github.com/FelipeSdsilva/projeto-sds3">Dsvendas</a> ^_^
+ 1) <a href="https://github.com/FelipeSdsilva/dscatalog">DsCatalog</a> 
+ 2) <a href="https://github.com/FelipeSdsilva/dsmovie">DsMovie</a>
+ 3) <a href="https://github.com/FelipeSdsilva/ChessMatchInJava">Chess Match</a>
+ 4) <a href="https://github.com/FelipeSdsilva/projeto-sds3">Dsvendas</a>
  
 _____________________________________________________________________________________________________________________________________________________________
 
